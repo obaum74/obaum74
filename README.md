@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obaum74 from DE
-- 👀 I’m interested in learning some programming skills
-- 🌱 I’m currently learning php and some other stuff
+- 👀 I’m creating creative stuff and apps
+- 🌱 I’m curious
 - 💞️ I’m looking to collaborate on some MAM projects
 - 📫 you can reach me only in person
 
